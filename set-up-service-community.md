@@ -25,11 +25,11 @@ Setting up a service community can help you address problems in your service by 
 
 Start your service community by talking to those in the public sector that you already know. It’s easier to work with small teams and others can help you grow the community later on.
 
-If you don’t know anyone within the teams and organisations you need to contact, you can use cross-government Slack or communities of practice to find them. We [made a template](https://docs.google.com/document/d/1kqX3sfFbqSlGTyp0k484yCBbDJL5OlTdn7oAn9JJ_dg/edit) that might make it easier for you.
+If you don’t know anyone within the teams and organisations you need to contact, you can use cross-government Slack or communities of practice to find them. We [made a template](https://github.com/alphagov/service-communities-templates/blob/master/how-to-reach-out-to-cross-government-channels.md) that might make it easier for you.
 
 ## 4. Get in touch with them and propose a service community
 
-Contact those that you know in your area by explaining what problems you want to address and how setting up a service community will help you address them. Suggest a call or a meeting to make a decision on objectives and ways of working. We [made a template](https://docs.google.com/document/d/1aulypuVodRgUy3ihRJgZ-oUFB7-fYjmZyWYoUloEqF0/edit) that others used to suggest this.
+Contact those that you know in your area by explaining what problems you want to address and how setting up a service community will help you address them. Suggest a call or a meeting to make a decision on objectives and ways of working. We [made a template](https://github.com/alphagov/service-communities-templates/blob/master/how-to-email-prospective-community-members-about-new-service-community.md) that others used to suggest this.
 
 ## 5. Agree together on what you’re trying to achieve and how you will achieve it 
 
